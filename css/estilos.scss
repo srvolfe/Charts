@@ -1,0 +1,70 @@
+@import 'header';
+@import 'sensor';
+
+
+
+.align{
+    display:flex;
+    flex-direction: column;
+  }
+.sensor{
+    margin: 4em auto;
+}
+
+footer{
+    text-align: center;
+}
+.titulo-apresentacao{
+    text-align: center;
+    margin: 3em;
+}
+.textos-apresentacao{    
+    padding: 0 10%;
+    a{
+        
+        font-weight: 700;
+        
+    }
+}
+.lista-cursos{
+    display: flex;
+    flex-direction: column;
+
+
+    ul{
+        list-style: none;
+    }
+}
+.center{
+    text-align: center;
+    margin-top: 3em;
+}
+
+
+.img-resp{
+    max-width: 100%;
+    height: auto;
+}
+@media screen and (min-width:768px){
+    .lista-cursos{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
