@@ -17,9 +17,6 @@
 		
 	</main>
 
-	<footer>
-		<p>Copyright 2019 Lucas Volfe</p>
-	</footer>
 
 	<script type="text/javascript" src="js/sensor.json"></script>
 		<script type="text/javascript" src="js/linechart.js"></script>

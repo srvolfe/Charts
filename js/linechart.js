@@ -31,13 +31,13 @@ function desenhaGrafico(){
         
         function drawBackgroundColor() {
               var data = new google.visualization.DataTable();              
+              data.addColumn('number', 'Data');
               data.addColumn('number', 'Temperatura');
-              data.addColumn('number', '');
               
               var i = 0;
               temperaturas.measurements.forEach( function(){         
-                var temperatures = temperaturas.measurements[i].temperature;                
-                data.addRows([[ i , temperatures]]);
+                var temperatures = temperaturas.measurements[i].temperature;    
+                data.addRows([[i ,temperatures]]);
                 i++;	            
             });
              

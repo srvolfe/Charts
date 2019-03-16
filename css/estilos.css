@@ -81,7 +81,7 @@ header ul a {
 }
 
 .sensor b {
-  color: #61D2B4;
+  color: black;
 }
 
 .align {
@@ -93,13 +93,9 @@ header ul a {
   margin: 4em auto;
 }
 
-footer {
-  text-align: center;
-}
-
 .titulo-apresentacao {
   text-align: center;
-  margin: 3em;
+  margin-top: 2em;
 }
 
 .textos-apresentacao {
@@ -134,4 +130,13 @@ footer {
     flex-direction: row;
     justify-content: space-around;
   }
+}
+
+.instrucoes {
+  padding: 0 10% 10%;
+  text-align: center;
+}
+
+.instrucoes img {
+  margin: 2em 0;
 }

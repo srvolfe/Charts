@@ -19,7 +19,7 @@
 	<header>
 		<nav>
 			<ul>
-				<li><img src="img/logo.png"></li>
+				<li><a href="index.php"><img src="img/logo.png"></a></li>
 
 				<li class="menu-desk">
 					<div class="box-menu-icon" id="menu-mob">

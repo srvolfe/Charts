@@ -26,10 +26,10 @@ console.log(resposta
 
   function drawChart() {
     var data = new google.visualization.DataTable();
-    data.addColumn('date', 'Date');
-    data.addColumn('number', 'Kepler-22b mission');
-    data.addColumn('string', 'Kepler title');
-    data.addColumn('string', 'Kepler text');
+    data.addColumn('date', 'Data');
+    data.addColumn('number', 'Temperatura');
+    data.addColumn('string', 'Titulo');
+    data.addColumn('string', 'texto');
          
       var i = 0;
       
@@ -43,7 +43,7 @@ console.log(resposta
         var temperatura = temperaturas.measurements[i].temperature * -1;        
         var descricao = hora.concat(':', minuto);    
         data.addRows([
-          [new Date(ano, mes, dia, hora, minuto), temperatura, descricao, ''],          
+          [new Date(ano, mes, dia, hora, minuto), temperatura, descricao, ('Temperatura: -'+temperatura)],          
         ]);               
         i++;     
       });	            
