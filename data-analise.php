@@ -7,7 +7,7 @@
     <div class="instrucoes">
         <h1 class="titulo-apresentacao">Instruções</h1>
 
-        <p>Crie um conta no google <a href="https://colab.research.google.com">colab</a> em seguida inicie um máquina</p>
+        <p>Crie um conta no google <a target="_blank" href="https://colab.research.google.com">colab</a> em seguida inicie um máquina</p>
 
         <p>Utileze o arquivo ('curso data science-analise de dados.ipynb') que deixei na pasta 'colab para iniciar um projeto, nele estão contido os códigos para rodas as impresões dos gráfocos.</p>
         <p>Na sequência faça o upload dos dois arquivos ('tmdb_5000_movies.csv', 'ratings.csv').'</p>

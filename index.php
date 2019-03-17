@@ -4,7 +4,7 @@
 <h1 class="titulo-apresentacao">Lucas Volfe</h1>
 
 <div class="textos-apresentacao">
-	<p>Sou acadêmico da unochapeco do curso de ciências da computação, já produzi algumas páginas e pretendo aperfeiçoa-me cada vez mais. Adquiri alguns cursos e acesso a plataformas de ensino online para atividades extraclasse e dar continuidade aos estudos de assuntos específicos.</p>
+	<p>Sou acadêmico da unochapeco do curso de ciências da computação, já produzi alguns projetos e pretendo aperfeiçoa-me cada vez mais. Adquiri alguns cursos e acesso a plataformas de ensino online para atividades extraclasse e dar continuidade aos estudos de assuntos específicos.</p>
 	<p>Deixei um outro <a href="data-analise.php">conteúdo</a> junto ao projeto que não são diretamente relacionados com o desafio, mas trabalho com gráficos, analises de dados, modelos de classificação, feitos durante cursos com bibliotecas do Python.</p>
 	<p>Como orientado na descrição, não foi usado uma bazuca para matar uma formiga, utilizei dos mínimos recursos necessários para atender o projeto.</p>
 
