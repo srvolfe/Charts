@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="width=device-width">
 	<link rel="stylesheet" type="text/css" href="css/estilos.min.css"/>
-	<title>PackID</title>
+	<title>Graficos</title>
 
 	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
@@ -19,8 +19,6 @@
 	<header>
 		<nav>
 			<ul>
-				<li><a href="index.php"><img src="img/logo.png"></a></li>
-
 				<li class="menu-desk">
 					<div class="box-menu-icon" id="menu-mob">
                         <div class="bar1"></div>
@@ -28,6 +26,7 @@
                         <div class="bar3"></div>
 					 </div>
 					 <ul class="links" id="links">
+						<li><a href="index.php">Home</a></li>
 						<li><a href="annotationchart.php">AnnotationChart</a></li>
 						<li><a href="columnchart.php">ColumnChart</a></li>
 						<li><a href="linechart.php">LineChart</a></li> 
